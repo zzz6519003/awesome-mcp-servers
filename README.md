@@ -1,6 +1,6 @@
 # Awesome MCP Servers
 
-> A curated list of Model Context Protocol (MCP) servers
+> A curated list of [Model Context Protocol](https://www.anthropic.com/news/model-context-protocol) (MCP) servers
 
 ## Reference Implementation Servers
 
